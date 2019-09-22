@@ -16,6 +16,10 @@ mysql -h <endpoint> -P <db port> -u <db user> -p <database name>
 
 ## AWS deploy(development mode)
 
+IAM setting
+
+https://rubyonjets.com/docs/extras/minimal-deploy-iam/
+
 Edit .env.development.remote 
 
 ```env
